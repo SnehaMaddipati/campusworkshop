@@ -8,7 +8,7 @@ postgres = psycopg2.connect(
         host="dpg-chaarl3hp8u791h18350-a.oregon-postgres.render.com",
         database="todo_sqs5",
         user="sneha",
-        password="dpg-chaarl3hp8u791h18350-a.oregon-postgres.render.com")
+        password="vtQDjAe97Xg27VMK11C7uI4m64417jKj")
 # To prevent from using a blueprint, we use a cyclic import
 # This also means that we need to place this import here
 # pylint: disable=cyclic-import, wrong-import-position
